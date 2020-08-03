@@ -1,1 +1,2 @@
 # pca-cancer-data
+This is an attempt at exploring the cervical cancer risk classification dataset (https://www.kaggle.com/loveall/cervical-cancer-risk-classification) using Principal Component Analysis (PCA) and K-means clustering methods to draw out some patterns, inspired by a similar analysis performed on customer data from Instacart (https://www.kaggle.com/asindico/customer-segments-with-pca).
